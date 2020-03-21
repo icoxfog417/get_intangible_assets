@@ -1,2 +1,3 @@
-# get_intangible_assets
-Get Intangible Assets from XBRL
+# Get Intangible Assets
+
+Get Intangible Assets from XBRL.
